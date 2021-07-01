@@ -99,3 +99,10 @@
 #### 4.4用户画像  
 | ![用户画像1](https://raw.githubusercontent.com/yunizizi/APP_cms/main/image/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F1.png) | ![用户画像2](https://raw.githubusercontent.com/yunizizi/APP_cms/main/image/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F2.png) | ![用户画像3](https://raw.githubusercontent.com/yunizizi/APP_cms/main/image/%E7%94%A8%E6%88%B7%E7%94%BB%E5%83%8F3.png) |
 |:-|:-|:-| 
+
+### 5、前端产品信息设计  
+#### 5.1前端产品架构图  
+![前端产品架构图](https://raw.githubusercontent.com/yunizizi/APP_team/main/%E4%BA%A7%E5%93%81%E6%9E%B6%E6%9E%84%E5%9B%BE.jpg)
+
+#### 5.2用户流程图
+![用户流程图](https://raw.githubusercontent.com/yunizizi/APP_team/main/%E7%94%A8%E6%88%B7%E6%B5%81%E7%A8%8B%E5%9B%BE.jpg)
