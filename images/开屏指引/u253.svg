@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="50px" height="50px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="198.7058823529395" y1="595.9411764705857" x2="179.22352941176533" y2="586.9941176470586" id="LinearGradient8">
-      <stop id="Stop9" stop-color="#84ba4d" offset="0" />
-      <stop id="Stop10" stop-color="#fefbfb" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="198.7058823529395" y1="595.9411764705857" x2="179.22352941176533" y2="586.9941176470586" id="LinearGradient18">
+      <stop id="Stop19" stop-color="#84ba4d" offset="0" />
+      <stop id="Stop20" stop-color="#fefbfb" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -155 -586 )">
     <path d="M 180 592.5  C 190.36 592.5  198.5 600.64  198.5 611  C 198.5 621.36  190.36 629.5  180 629.5  C 169.64 629.5  161.5 621.36  161.5 611  C 161.5 600.64  169.64 592.5  180 592.5  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 180 589.5  C 192.04 589.5  201.5 598.96  201.5 611  C 201.5 623.04  192.04 632.5  180 632.5  C 167.96 632.5  158.5 623.04  158.5 611  C 158.5 598.96  167.96 589.5  180 589.5  Z " stroke-width="7" stroke-dasharray="21,7" stroke="url(#LinearGradient8)" fill="none" stroke-dashoffset="0.5" />
+    <path d="M 180 589.5  C 192.04 589.5  201.5 598.96  201.5 611  C 201.5 623.04  192.04 632.5  180 632.5  C 167.96 632.5  158.5 623.04  158.5 611  C 158.5 598.96  167.96 589.5  180 589.5  Z " stroke-width="7" stroke-dasharray="21,7" stroke="url(#LinearGradient18)" fill="none" stroke-dashoffset="0.5" />
   </g>
 </svg>
